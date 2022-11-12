@@ -6,6 +6,7 @@ new_mail_icon=xfce-newmail
 log_lines=200
 show_log_status=true
 auto_open_online_doc=false
+count_changed_command=
 
 [mailwatch]
 nmailboxes=0

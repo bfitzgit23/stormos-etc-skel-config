@@ -1,5 +1,5 @@
 favorites=xfce4-web-browser.desktop,xfce4-mail-reader.desktop,xfce4-file-manager.desktop,xfce4-terminal-emulator.desktop
-recent=xfce-wm-settings.desktop,google-chrome.desktop,discord.desktop,xfce-ui-settings.desktop,xfce4-terminal-emulator.desktop,virtualbox.desktop,kvantummanager.desktop,qt5ct.desktop,xfce4-terminal.desktop,vlc.desktop
+recent=xfce-wm-settings.desktop,xfce-ui-settings.desktop,discord.desktop,xfce4-terminal-emulator.desktop,kvantummanager.desktop,qt5ct.desktop,xfce4-terminal.desktop,vlc.desktop
 button-icon=/usr/share/pixmaps/stormos/menubutton.png
 button-single-row=false
 show-button-title=false

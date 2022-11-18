@@ -4,110 +4,82 @@
   <property name="configver" type="int" value="2"/>
   <property name="panels" type="array">
     <value type="int" value="1"/>
+    <property name="dark-mode" type="bool" value="true"/>
     <property name="panel-1" type="empty">
       <property name="position" type="string" value="p=8;x=960;y=1064"/>
       <property name="length" type="uint" value="100"/>
       <property name="position-locked" type="bool" value="true"/>
+      <property name="icon-size" type="uint" value="0"/>
       <property name="size" type="uint" value="30"/>
       <property name="plugin-ids" type="array">
-        <value type="int" value="7"/>
         <value type="int" value="1"/>
-        <value type="int" value="3"/>
+        <value type="int" value="13"/>
+        <value type="int" value="14"/>
+        <value type="int" value="11"/>
         <value type="int" value="15"/>
+        <value type="int" value="3"/>
         <value type="int" value="2"/>
-        <value type="int" value="9"/>
-        <value type="int" value="6"/>
-        <value type="int" value="4"/>
-        <value type="int" value="8"/>
         <value type="int" value="5"/>
+        <value type="int" value="4"/>
+        <value type="int" value="7"/>
+        <value type="int" value="6"/>
+        <value type="int" value="8"/>
+        <value type="int" value="9"/>
+        <value type="int" value="10"/>
+        <value type="int" value="12"/>
       </property>
-      <property name="background-alpha" type="uint" value="76"/>
     </property>
   </property>
   <property name="plugins" type="empty">
-    <property name="plugin-3" type="string" value="tasklist">
+    <property name="plugin-2" type="string" value="tasklist">
+      <property name="grouping" type="uint" value="1"/>
       <property name="show-labels" type="bool" value="false"/>
       <property name="show-handle" type="bool" value="false"/>
     </property>
-    <property name="plugin-15" type="string" value="separator">
+    <property name="plugin-3" type="string" value="separator">
       <property name="expand" type="bool" value="true"/>
       <property name="style" type="uint" value="0"/>
     </property>
-    <property name="plugin-5" type="string" value="clock">
-      <property name="timezone" type="string" value="EST5EDT"/>
-      <property name="digital-format" type="string" value=" %a %h %d %l:%M %p"/>
+    <property name="plugin-5" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+      <property name="expand" type="bool" value="true"/>
     </property>
     <property name="plugin-6" type="string" value="systray">
-      <property name="names-visible" type="array">
-        <value type="string" value="evolution-alarm-notify"/>
-        <value type="string" value="discord"/>
-        <value type="string" value="pragha music player"/>
-        <value type="string" value="simplescreenrecorder"/>
-        <value type="string" value="pamac-tray"/>
-        <value type="string" value="vlc"/>
-        <value type="string" value="blueberry-tray.py"/>
-        <value type="string" value="xfce4-power-manager"/>
-        <value type="string" value="task manager"/>
-        <value type="string" value="insync.py"/>
-        <value type="string" value="telegramdesktop"/>
-        <value type="string" value="variety"/>
-        <value type="string" value="flameshot"/>
-        <value type="string" value="bluetooth"/>
-        <value type="string" value="clipman"/>
-        <value type="string" value="redshift-gtk"/>
-        <value type="string" value="scp-dbus-service.py"/>
-        <value type="string" value="networkmanager applet"/>
-        <value type="string" value="thunar"/>
-        <value type="string" value="gpick"/>
-        <value type="string" value="clipit"/>
-        <value type="string" value="dropbox"/>
-      </property>
-      <property name="show-frame" type="bool" value="false"/>
-      <property name="names-ordered" type="array">
-        <value type="string" value="zoom"/>
-        <value type="string" value="simplescreenrecorder"/>
-        <value type="string" value="task manager"/>
-        <value type="string" value="vlc"/>
-        <value type="string" value="xfce terminal"/>
-        <value type="string" value="thunar"/>
-        <value type="string" value="dropbox"/>
-        <value type="string" value="discord"/>
-        <value type="string" value="insync"/>
-        <value type="string" value="variety"/>
-        <value type="string" value="telegramdesktop"/>
-        <value type="string" value="blueberry-tray.py"/>
-        <value type="string" value="flameshot"/>
-        <value type="string" value="pamac-tray"/>
-        <value type="string" value="networkmanager applet"/>
-        <value type="string" value="clipman"/>
-      </property>
+      <property name="square-icons" type="bool" value="true"/>
       <property name="known-legacy-items" type="array">
-        <value type="string" value="thunar"/>
-        <value type="string" value="networkmanager applet"/>
+        <value type="string" value="ethernet network connection “wired connection 1” active"/>
+        <value type="string" value="notes"/>
+        <value type="string" value="xfce terminal"/>
+        <value type="string" value="anydesk"/>
         <value type="string" value="pamac-tray"/>
-        <value type="string" value="clipman"/>
+        <value type="string" value="thunar"/>
+        <value type="string" value="blueberry-tray.py"/>
+        <value type="string" value="networkmanager applet"/>
       </property>
       <property name="known-items" type="array">
-        <value type="string" value="variety"/>
-      </property>
-    </property>
-    <property name="plugin-7" type="string" value="whiskermenu"/>
-    <property name="clipman" type="empty">
-      <property name="tweaks" type="empty">
-        <property name="never-confirm-history-clear" type="bool" value="true"/>
+        <value type="string" value="vlc"/>
+        <value type="string" value="acetoneiso"/>
+        <value type="string" value="Fusion Icon"/>
+        <value type="string" value="steam"/>
+        <value type="string" value="TeamViewer"/>
+        <value type="string" value="octopi-notifier"/>
+        <value type="string" value="discord1"/>
       </property>
     </property>
     <property name="plugin-8" type="string" value="pulseaudio">
       <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
-      <property name="mpris-players" type="string" value="pragha;spotify"/>
+      <property name="show-notifications" type="bool" value="true"/>
+      <property name="mpris-players" type="string" value="chromium.instance1174;chromium.instance1181;chromium.instance1252;chromium.instance145182;chromium.instance3084;chromium.instance3903;firefox.instance108973;firefox.instance12329;firefox.instance14002;firefox.instance14680;firefox.instance17474;firefox.instance2455;firefox.instance24631;firefox.instance2678;firefox.instance3455;firefox.instance3500;firefox.instance4266;firefox.instance4960;firefox.instance54166;firefox.instance54171;firefox.instance5455;firefox.instance9872;vlc"/>
     </property>
-    <property name="plugin-1" type="string" value="separator">
-      <property name="expand" type="bool" value="true"/>
-      <property name="style" type="uint" value="0"/>
+    <property name="plugin-9" type="string" value="power-manager-plugin"/>
+    <property name="plugin-10" type="string" value="notification-plugin"/>
+    <property name="plugin-12" type="string" value="clock">
+      <property name="timezone" type="string" value="EST5EDT"/>
+      <property name="digital-format" type="string" value="%a %h %d %l:%M %p"/>
+      <property name="mode" type="uint" value="2"/>
+      <property name="show-meridiem" type="bool" value="true"/>
     </property>
-    <property name="plugin-2" type="string" value="mailwatch"/>
-    <property name="plugin-4" type="string" value="power-manager-plugin"/>
-    <property name="plugin-9" type="string" value="weather">
+    <property name="plugin-4" type="string" value="weather">
       <property name="location" type="empty">
         <property name="name" type="string" value="Louisville, Jefferson County"/>
         <property name="latitude" type="string" value="38.254238"/>
@@ -144,6 +116,28 @@
       <property name="labels" type="empty">
         <property name="label0" type="int" value="3"/>
         <property name="label1" type="int" value="9"/>
+      </property>
+    </property>
+    <property name="plugin-7" type="string" value="mailwatch"/>
+    <property name="plugin-13" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="16230210662.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-14" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="16230210763.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-11" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="16244275161.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-1" type="string" value="whiskermenu"/>
+    <property name="plugin-15" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="16512588081.desktop"/>
       </property>
     </property>
   </property>

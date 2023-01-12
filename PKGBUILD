@@ -2,7 +2,7 @@
 pkgname=stormos-etc-skel-config
 _destname1="/etc"
 pkgver=22.03
-pkgrel=2
+pkgrel=3
 pkgdesc="Desktop Config for StormOS"
 arch=('any')
 url="https://gitlab.com/bfitzgit23"

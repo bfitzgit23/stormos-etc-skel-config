@@ -2,6 +2,6 @@
 yad --title "StormOS Welcome" --form --columns=2 --width=480 --height=100 --text="Welcome to <b>StormOS</b> this will help get you started. Keep in mind that this app will be replaced after install with the post-install version." --image=$HOME/stormos.png  \
 --field="<b>StormOS Installer Normal</b>":fbtn "sh -c 'sudo -E /usr/bin/calamares'" \
 --field="<b>Visit StormOS Site</b>":fbtn "xdg-open https://stormos-linux.com" \
---field="<b>StormOS Installer Debug</b>":fbtn "konsole -e 'sudo -E /usr/bin/calamares -D6'" \
+--field="<b>StormOS Installer Debug</b>":fbtn "xfce4-terminal -e 'sudo -E /usr/bin/calamares -D6'" \
 --field="<b>StormOS ReadMe</b>":fbtn '/usr/local/bin/readme' \
 --button=Exit:1

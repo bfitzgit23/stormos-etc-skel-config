@@ -1,61 +1,17 @@
 [xfdesktop-version-4.10.3+-rcfile_format]
 4.10.3+=true
 
-[/home/ben/Desktop/STAR WARS Jedi Knight II Jedi Outcast.desktop]
-row=5
-col=0
-
-[/home/ben/Desktop/RollerCoaster Tycoon 3 Platinum!.desktop]
-row=0
-col=2
-
-[/home/ben/Desktop/Yu-Gi-Oh!  Master Duel.desktop]
-row=2
-col=1
-
-[/home/ben/Desktop/Jade Empire Special Edition.desktop]
+[/home/ben/Desktop/StormOS_KDE-2023.01.20-x86_64.iso.torrent]
 row=1
-col=2
-
-[/home/ben/Desktop/STAR WARS Knights of the Old Republic.desktop]
-row=4
 col=0
 
-[/home/ben/Desktop/Yu-Gi-Oh! Duel Links.desktop]
-row=3
-col=1
-
-[/home/ben/Desktop/STAR WARS Knights of the Old Republic II The Sith Lords.desktop]
+[/home/ben/Desktop/StormOS_XFCE-2023.01.20-x86_64.iso.torrent]
 row=2
-col=0
-
-[/home/ben/Desktop/RollerCoaster Tycoon Classic.desktop]
-row=2
-col=2
-
-[/home/ben/Desktop/BioShock Remastered.desktop]
-row=0
-col=1
-
-[/home/ben/Desktop/STAR WARS The Old Republic.desktop]
-row=3
-col=0
-
-[/home/ben/Desktop/BioShock 2 Remastered.desktop]
-row=1
-col=1
-
-[/home/ben/Desktop/swg.sh]
-row=4
-col=1
-
-[/home/ben/Desktop/steam.desktop]
-row=1
 col=0
 
 [Trash]
 row=5
-col=1
+col=11
 
 [/home/ben]
 row=0

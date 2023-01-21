@@ -1,5 +1,5 @@
 favorites=xfce4-web-browser.desktop,xfce4-mail-reader.desktop,xfce4-file-manager.desktop,xfce4-terminal-emulator.desktop
-recent=xfce-wm-settings.desktop,xfce-ui-settings.desktop,discord.desktop,xfce4-terminal-emulator.desktop,kvantummanager.desktop,qt5ct.desktop,xfce4-terminal.desktop,vlc.desktop
+recent=xfce-wm-settings.desktop,xfce-ui-settings.desktop,kvantummanager.desktop,org.qbittorrent.qBittorrent.desktop,filezilla.desktop,firefox.desktop,discord.desktop,xfce4-terminal-emulator.desktop,qt5ct.desktop,xfce4-terminal.desktop
 button-icon=/usr/share/pixmaps/stormos/menubutton.png
 button-single-row=false
 show-button-title=false
@@ -25,7 +25,7 @@ profile-shape=0
 confirm-session-command=true
 menu-width=450
 menu-height=500
-menu-opacity=100
+menu-opacity=95
 command-settings=xfce4-settings-manager
 show-command-settings=true
 command-lockscreen=xflock4

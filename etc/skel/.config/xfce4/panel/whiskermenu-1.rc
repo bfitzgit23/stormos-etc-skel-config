@@ -1,5 +1,5 @@
 favorites=xfce4-web-browser.desktop,xfce4-mail-reader.desktop,xfce4-file-manager.desktop,xfce4-terminal-emulator.desktop
-recent=xfce-wm-settings.desktop,xfce-ui-settings.desktop,kvantummanager.desktop,org.qbittorrent.qBittorrent.desktop,filezilla.desktop,firefox.desktop,discord.desktop,xfce4-terminal-emulator.desktop,qt5ct.desktop,xfce4-terminal.desktop
+recent=skypeforlinux.desktop,thorium-browser-unstable.desktop,org.telegram.desktop.desktop,steam-native.desktop,discord.desktop,io.github.edo9300.EDOPro.desktop,net.lutris.Lutris.desktop,org.flameshot.Flameshot.desktop,xfce-display-settings.desktop,virtualbox.desktop
 button-icon=/usr/share/pixmaps/stormos/menubutton.png
 button-single-row=false
 show-button-title=false

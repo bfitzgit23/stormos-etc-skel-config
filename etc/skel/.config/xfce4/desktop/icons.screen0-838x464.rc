@@ -10,8 +10,8 @@ row=2
 col=0
 
 [/home/ben/Desktop/neofetch]
-row=7
-col=0
+row=2
+col=2
 
 [/home/ben/Desktop/jhalfs]
 row=0
@@ -22,24 +22,24 @@ row=3
 col=0
 
 [/home/ben/Desktop/calamares]
-row=6
-col=0
+row=1
+col=3
 
 [/home/ben/Desktop/blfs_root-1]
-row=4
-col=0
+row=0
+col=3
 
 [/home/ben/Desktop/launcher]
 row=3
 col=1
 
 [/home/ben/Desktop/blfs_root]
-row=5
-col=0
+row=3
+col=2
 
 [/home/ben/Desktop/XinnixOS-Repo]
-row=8
-col=0
+row=1
+col=2
 
 [/home/ben/Desktop/SWGLegendsLauncher]
 row=1
@@ -50,8 +50,8 @@ row=2
 col=1
 
 [Trash]
-row=8
-col=17
+row=0
+col=2
 
 [/home/ben]
 row=0

@@ -4,9 +4,10 @@
   <property name="configver" type="int" value="2"/>
   <property name="panels" type="array">
     <value type="int" value="1"/>
+    <value type="int" value="2"/>
     <property name="dark-mode" type="bool" value="true"/>
     <property name="panel-1" type="empty">
-      <property name="position" type="string" value="p=8;x=960;y=1064"/>
+      <property name="position" type="string" value="p=6;x=960;y=16"/>
       <property name="length" type="uint" value="100"/>
       <property name="position-locked" type="bool" value="true"/>
       <property name="icon-size" type="uint" value="0"/>
@@ -27,6 +28,30 @@
         <value type="int" value="9"/>
         <value type="int" value="10"/>
         <value type="int" value="12"/>
+      </property>
+      <property name="background-style" type="uint" value="1"/>
+      <property name="background-rgba" type="array">
+        <value type="double" value="0"/>
+        <value type="double" value="0"/>
+        <value type="double" value="0"/>
+        <value type="double" value="0.697508896797153"/>
+      </property>
+    </property>
+    <property name="panel-2" type="empty">
+      <property name="position" type="string" value="p=12;x=902;y=1055"/>
+      <property name="size" type="uint" value="48"/>
+      <property name="length" type="double" value="1"/>
+      <property name="background-style" type="uint" value="1"/>
+      <property name="background-rgba" type="array">
+        <value type="double" value="0"/>
+        <value type="double" value="0"/>
+        <value type="double" value="0"/>
+        <value type="double" value="0.697508896797153"/>
+      </property>
+      <property name="autohide-behavior" type="uint" value="2"/>
+      <property name="position-locked" type="bool" value="true"/>
+      <property name="plugin-ids" type="array">
+        <value type="int" value="16"/>
       </property>
     </property>
   </property>
@@ -86,7 +111,7 @@
     <property name="plugin-8" type="string" value="pulseaudio">
       <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
       <property name="show-notifications" type="bool" value="true"/>
-      <property name="mpris-players" type="string" value="chromium.instance1174;chromium.instance1181;chromium.instance1252;chromium.instance145182;chromium.instance18834;chromium.instance2892;chromium.instance3084;chromium.instance3394;chromium.instance3866;chromium.instance3903;chromium.instance422557;chromium.instance4931;chromium.instance7493;firefox.instance108973;firefox.instance12329;firefox.instance14002;firefox.instance14680;firefox.instance17474;firefox.instance2455;firefox.instance24631;firefox.instance2678;firefox.instance3455;firefox.instance3500;firefox.instance4266;firefox.instance4960;firefox.instance54166;firefox.instance54171;firefox.instance5455;firefox.instance9872;vlc"/>
+      <property name="mpris-players" type="string" value="chromium.instance1174;chromium.instance1181;chromium.instance1252;chromium.instance145182;chromium.instance18834;chromium.instance28138;chromium.instance2892;chromium.instance3084;chromium.instance3394;chromium.instance3866;chromium.instance3903;chromium.instance422557;chromium.instance4804;chromium.instance4931;chromium.instance7493;firefox.instance108973;firefox.instance12329;firefox.instance14002;firefox.instance14680;firefox.instance17474;firefox.instance2455;firefox.instance24631;firefox.instance2678;firefox.instance3455;firefox.instance3500;firefox.instance4266;firefox.instance4960;firefox.instance54166;firefox.instance54171;firefox.instance5455;firefox.instance9872;vlc"/>
     </property>
     <property name="plugin-9" type="string" value="power-manager-plugin"/>
     <property name="plugin-10" type="string" value="notification-plugin"/>
@@ -162,5 +187,6 @@
         <value type="string" value="16512588081.desktop"/>
       </property>
     </property>
+    <property name="plugin-16" type="string" value="docklike"/>
   </property>
 </channel>

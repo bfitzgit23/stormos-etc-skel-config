@@ -1,5 +1,5 @@
 favorites=xfce4-web-browser.desktop,xfce4-mail-reader.desktop,xfce4-file-manager.desktop,xfce4-terminal-emulator.desktop
-recent=skypeforlinux.desktop,thorium-browser-unstable.desktop,org.telegram.desktop.desktop,steam-native.desktop,discord.desktop,io.github.edo9300.EDOPro.desktop,net.lutris.Lutris.desktop,org.flameshot.Flameshot.desktop,xfce-display-settings.desktop,virtualbox.desktop
+recent=ccsm.desktop,compiz-gtk-decorator-theme.desktop,skypeforlinux.desktop,STAR WARS Knights of the Old Republic II The Sith Lords.desktop,steam-native.desktop,com.usebottles.bottles.desktop,discord.desktop,virtualbox.desktop,filezilla.desktop,org.qbittorrent.qBittorrent.desktop
 button-icon=/usr/share/pixmaps/stormos/menubutton.png
 button-single-row=false
 show-button-title=false

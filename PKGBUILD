@@ -1,8 +1,8 @@
 # Maintainer: StormOSDev <linuxstormos@gmail.com>
 pkgname=stormos-etc-skel-config
 _destname1="/etc"
-pkgver=29.04.23
-pkgrel=10
+pkgver=04.29.23
+pkgrel=11
 pkgdesc="Desktop Config for StormOS"
 arch=('any')
 url="https://gitlab.com/bfitzgit23"

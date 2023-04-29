@@ -1,0 +1,13 @@
+[$Version]
+update_info=kwinrules.upd:replace-placement-string-to-enum,kwinrules.upd:use-virtual-desktop-ids
+
+[02117044-c801-49d5-8f0b-eafad7f6a128]
+Description=WhiskerMenu
+aboverule=2
+fsplevelrule=2
+wmclass=wrapper-2.0
+wmclassmatch=1
+
+[General]
+count=1
+rules=02117044-c801-49d5-8f0b-eafad7f6a128

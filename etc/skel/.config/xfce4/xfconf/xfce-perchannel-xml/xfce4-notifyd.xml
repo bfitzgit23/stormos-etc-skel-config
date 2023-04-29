@@ -11,12 +11,14 @@
       <value type="string" value="google-chrome"/>
       <value type="string" value="nm-applet"/>
       <value type="string" value="org.freedesktop.network-manager-applet"/>
+      <value type="string" value="org.kde.kwin"/>
       <value type="string" value="org.manjaro.pamac.manager"/>
       <value type="string" value="org.manjaro.pamac.tray"/>
       <value type="string" value="org.qbittorrent.qBittorrent"/>
       <value type="string" value="org.xfce.Thunar"/>
       <value type="string" value="Package Manager"/>
       <value type="string" value="Skype"/>
+      <value type="string" value="thorium-browser"/>
       <value type="string" value="thorium-browser-unstable"/>
       <value type="string" value="thunar"/>
       <value type="string" value="thunar-volman"/>

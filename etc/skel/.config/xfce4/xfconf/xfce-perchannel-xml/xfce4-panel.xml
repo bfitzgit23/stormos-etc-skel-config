@@ -72,6 +72,36 @@
     <property name="plugin-6" type="string" value="systray">
       <property name="square-icons" type="bool" value="true"/>
       <property name="known-legacy-items" type="array">
+        <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (74%)"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (61%)"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (81%)"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (80%)"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (87%)"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (90%)"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (88%)"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (91%)"/>
+        <value type="string" value="wi-fi network connection “700 room” active: 700 room (57%)"/>
+        <value type="string" value="fusion-icon"/>
+        <value type="string" value="wi-fi network connection “700 room” active: 700 room (60%)"/>
+        <value type="string" value="wi-fi network connection “700 room” active: 700 room (58%)"/>
+        <value type="string" value="wi-fi network connection “700 room” active: 700 room (62%)"/>
+        <value type="string" value="requesting a wi-fi network address for “700 room”…"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (57%)"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (59%)"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (56%)"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (71%)"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (53%)"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (62%)"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (48%)"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (49%)"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (51%)"/>
+        <value type="string" value="steam"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (50%)"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (46%)"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (55%)"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (58%)"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (54%)"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (52%)"/>
         <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (82%)"/>
         <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (84%)"/>
         <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (67%)"/>
@@ -93,6 +123,7 @@
         <value type="string" value="networkmanager applet"/>
       </property>
       <property name="known-items" type="array">
+        <value type="string" value="obs"/>
         <value type="string" value="TelegramDesktop"/>
         <value type="string" value="flameshot"/>
         <value type="string" value="Skype1"/>
@@ -111,7 +142,7 @@
     <property name="plugin-8" type="string" value="pulseaudio">
       <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
       <property name="show-notifications" type="bool" value="true"/>
-      <property name="mpris-players" type="string" value="chromium.instance1174;chromium.instance1181;chromium.instance1252;chromium.instance145182;chromium.instance18834;chromium.instance28138;chromium.instance2892;chromium.instance3084;chromium.instance3394;chromium.instance3866;chromium.instance3903;chromium.instance422557;chromium.instance4804;chromium.instance4931;chromium.instance7493;firefox.instance108973;firefox.instance12329;firefox.instance14002;firefox.instance14680;firefox.instance17474;firefox.instance2455;firefox.instance24631;firefox.instance2678;firefox.instance3455;firefox.instance3500;firefox.instance4266;firefox.instance4960;firefox.instance54166;firefox.instance54171;firefox.instance5455;firefox.instance9872;vlc"/>
+      <property name="mpris-players" type="string" value="chromium.instance1036629;chromium.instance1174;chromium.instance1181;chromium.instance1252;chromium.instance14432;chromium.instance145182;chromium.instance18834;chromium.instance1920832;chromium.instance2316261;chromium.instance2370048;chromium.instance2434516;chromium.instance28138;chromium.instance2892;chromium.instance3084;chromium.instance3345;chromium.instance3394;chromium.instance3539;chromium.instance3866;chromium.instance3903;chromium.instance422557;chromium.instance4243;chromium.instance4804;chromium.instance4931;chromium.instance5206;chromium.instance5704;chromium.instance579219;chromium.instance7493;chromium.instance7536;chromium.instance927261;chromium.instance9276;firefox.instance108973;firefox.instance12329;firefox.instance14002;firefox.instance14680;firefox.instance17474;firefox.instance2455;firefox.instance24631;firefox.instance2678;firefox.instance3455;firefox.instance3500;firefox.instance4266;firefox.instance4960;firefox.instance54166;firefox.instance54171;firefox.instance5455;firefox.instance9872;vlc"/>
     </property>
     <property name="plugin-9" type="string" value="power-manager-plugin"/>
     <property name="plugin-10" type="string" value="notification-plugin"/>

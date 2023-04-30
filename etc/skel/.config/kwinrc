@@ -1,15 +1,7 @@
-[$Version]
-update_info=kwin.upd:replace-scalein-with-scale,kwin.upd:port-minimizeanimation-effect-to-js,kwin.upd:port-scale-effect-to-js,kwin.upd:port-dimscreen-effect-to-js,kwin.upd:auto-bordersize,kwin.upd:animation-speed,kwin.upd:desktop-grid-click-behavior,kwin.upd:no-swap-encourage,kwin.upd:make-translucency-effect-disabled-by-default,kwin.upd:remove-flip-switch-effect,kwin.upd:remove-cover-switch-effect,kwin.upd:remove-cubeslide-effect,kwin.upd:remove-xrender-backend,kwin.upd:enable-scale-effect-by-default,kwin.upd:overview-group-plugin-id,kwin.upd:animation-speed-cleanup,kwin.upd:replace-cascaded-zerocornered
-
 [Desktops]
-Id_1=c65bb6bb-713d-44ba-96e7-87ac41676377
-Id_2=f1f7d81e-2889-493f-ba00-e2418077f550
-Number=2
+Id_1=2df70d62-6cdf-463f-baa4-bed874647533
+Number=1
 Rows=1
-
-[Effect-kwin4_effect_scale]
-Duration=100
-InScale=0.96
 
 [Plugins]
 fallapartEnabled=true
@@ -24,8 +16,5 @@ wobblywindowsEnabled=true
 [Tiling]
 padding=4
 
-[Tiling][213a9620-187e-58a6-b80b-85d8fb95dfce]
-tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
-
-[Tiling][c897c4f6-72b3-5b9a-8a41-b221a90df985]
+[Tiling][75ed573d-6eee-5e00-a7c4-c7589c8df991]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}

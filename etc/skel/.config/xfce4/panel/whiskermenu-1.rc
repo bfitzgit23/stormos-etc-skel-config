@@ -1,5 +1,5 @@
 favorites=xfce4-web-browser.desktop,xfce4-mail-reader.desktop,xfce4-file-manager.desktop,xfce4-terminal-emulator.desktop
-recent=org.telegram.desktop.desktop,discord.desktop,thorium-browser.desktop,xfce-keyboard-settings.desktop,kdesystemsettings.desktop,xfce-ui-settings.desktop,vlc.desktop,qt5ct.desktop,kvantummanager.desktop,xfce-session-settings.desktop
+recent=kdesystemsettings.desktop,gufw.desktop,xfce-session-settings.desktop,org.xfce.mousepad.desktop,system-tool.desktop,org.manjaro.pamac.manager.desktop,thunar.desktop,vlc.desktop,xfce4-terminal.desktop,kvantummanager.desktop
 button-icon=/usr/share/pixmaps/stormos/menubutton.png
 button-single-row=false
 show-button-title=false
@@ -24,7 +24,7 @@ stay-on-focus-out=false
 profile-shape=0
 confirm-session-command=true
 menu-width=1892
-menu-height=1022
+menu-height=1002
 menu-opacity=95
 command-settings=xfce4-settings-manager
 show-command-settings=true

@@ -1,10 +1,15 @@
-[875feb0b-8fe1-45d8-a6bd-0a7ed394ebd8]
-Description=WhiskerMenu
-aboverule=2
-fsplevelrule=2
-wmclass=wrapper-2.0
-wmclassmatch=1
+[$Version]
+update_info=kwinrules.upd:replace-placement-string-to-enum,kwinrules.upd:use-virtual-desktop-ids
 
 [General]
 count=1
-rules=875feb0b-8fe1-45d8-a6bd-0a7ed394ebd8
+rules=efba09cd-e020-46bd-a479-006355df6f92
+
+[efba09cd-e020-46bd-a479-006355df6f92]
+Description=Whiskermenu
+above=true
+aboverule=2
+fsplevelrule=2
+types=32
+wmclass=kcmshell5
+wmclassmatch=1

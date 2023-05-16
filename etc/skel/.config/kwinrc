@@ -1,20 +1,16 @@
+[$Version]
+update_info=kwin.upd:replace-scalein-with-scale,kwin.upd:port-minimizeanimation-effect-to-js,kwin.upd:port-scale-effect-to-js,kwin.upd:port-dimscreen-effect-to-js,kwin.upd:auto-bordersize,kwin.upd:animation-speed,kwin.upd:desktop-grid-click-behavior,kwin.upd:no-swap-encourage,kwin.upd:make-translucency-effect-disabled-by-default,kwin.upd:remove-flip-switch-effect,kwin.upd:remove-cover-switch-effect,kwin.upd:remove-cubeslide-effect,kwin.upd:remove-xrender-backend,kwin.upd:enable-scale-effect-by-default,kwin.upd:overview-group-plugin-id,kwin.upd:animation-speed-cleanup,kwin.upd:replace-cascaded-zerocornered
+
 [Desktops]
-Id_1=2df70d62-6cdf-463f-baa4-bed874647533
+Id_1=271f02f1-2f37-4d7e-a1eb-67616b86add6
 Number=1
 Rows=1
 
-[Plugins]
-fallapartEnabled=true
-kwin4_effect_squashEnabled=false
-magiclampEnabled=true
-mouseclickEnabled=true
-mousemarkEnabled=true
-slidebackEnabled=true
-trackmouseEnabled=true
-wobblywindowsEnabled=true
+[ElectricBorders]
+Top=KRunner
 
 [Tiling]
 padding=4
 
-[Tiling][75ed573d-6eee-5e00-a7c4-c7589c8df991]
+[Tiling][e688eb74-7230-5d02-a5e0-3b38a54bc04e]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}

@@ -28,7 +28,6 @@
         <value type="int" value="9"/>
         <value type="int" value="10"/>
         <value type="int" value="12"/>
-        <value type="int" value="17"/>
       </property>
       <property name="background-style" type="uint" value="1"/>
       <property name="background-rgba" type="array">
@@ -180,13 +179,5 @@
       </property>
     </property>
     <property name="plugin-16" type="string" value="docklike"/>
-    <property name="plugin-17" type="string" value="launcher">
-      <property name="items" type="array">
-        <value type="string" value="16842036711.desktop"/>
-        <value type="string" value="16842041362.desktop"/>
-      </property>
-      <property name="move-first" type="bool" value="true"/>
-      <property name="arrow-position" type="uint" value="5"/>
-    </property>
   </property>
 </channel>

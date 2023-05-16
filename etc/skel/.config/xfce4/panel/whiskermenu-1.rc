@@ -1,5 +1,5 @@
 favorites=xfce4-web-browser.desktop,xfce4-mail-reader.desktop,xfce4-file-manager.desktop,xfce4-terminal-emulator.desktop
-recent=xfce-ui-settings.desktop,kdesystemsettings.desktop,qt5ct.desktop,vlc.desktop,org.manjaro.pamac.manager.desktop,gparted.desktop,thunderbird.desktop,org.xfce.mousepad.desktop,thunar.desktop,xfce-wm-settings.desktop
+recent=kdesystemsettings.desktop,xfce-ui-settings.desktop,qt5ct.desktop,vlc.desktop,org.manjaro.pamac.manager.desktop,gparted.desktop,thunderbird.desktop,org.xfce.mousepad.desktop,thunar.desktop,xfce-wm-settings.desktop
 button-icon=/usr/share/pixmaps/stormos/menubutton.png
 button-single-row=false
 show-button-title=false

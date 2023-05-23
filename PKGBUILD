@@ -1,7 +1,7 @@
 # Maintainer: StormOSDev <linuxstormos@gmail.com>
 pkgname=stormos-etc-skel-config
 _destname1="/etc"
-pkgver=05.15.23
+pkgver=05.23.23
 pkgrel=15
 pkgdesc="Desktop Config for StormOS"
 arch=('any')

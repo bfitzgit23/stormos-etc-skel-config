@@ -28,6 +28,7 @@
         <value type="int" value="9"/>
         <value type="int" value="10"/>
         <value type="int" value="12"/>
+        <value type="int" value="17"/>
       </property>
       <property name="background-style" type="uint" value="1"/>
       <property name="background-rgba" type="array">
@@ -71,6 +72,18 @@
     <property name="plugin-6" type="string" value="systray">
       <property name="square-icons" type="bool" value="true"/>
       <property name="known-legacy-items" type="array">
+        <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (49%)"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (50%)"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (60%)"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (65%)"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (78%)"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (67%)"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (85%)"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (98%)"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (100%)"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (55%)"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (76%)"/>
+        <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (79%)"/>
         <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (87%)"/>
         <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (80%)"/>
         <value type="string" value="wi-fi network connection “spirit-of-76” active: spirit-of-76 (88%)"/>
@@ -91,6 +104,9 @@
         <value type="string" value="networkmanager applet"/>
       </property>
       <property name="known-items" type="array">
+        <value type="string" value="TelegramDesktop"/>
+        <value type="string" value="obs"/>
+        <value type="string" value="chrome_status_icon_1"/>
         <value type="string" value="qBittorrent"/>
         <value type="string" value="blueman"/>
         <value type="string" value="vlc"/>
@@ -105,7 +121,7 @@
     <property name="plugin-8" type="string" value="pulseaudio">
       <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
       <property name="show-notifications" type="bool" value="true"/>
-      <property name="mpris-players" type="string" value="chromium.instance1174;chromium.instance1181;chromium.instance1252;chromium.instance145182;chromium.instance3084;chromium.instance3903;firefox.instance108973;firefox.instance12329;firefox.instance14002;firefox.instance14680;firefox.instance17474;firefox.instance2455;firefox.instance24631;firefox.instance2678;firefox.instance3455;firefox.instance3500;firefox.instance4266;firefox.instance4960;firefox.instance54166;firefox.instance54171;firefox.instance5455;firefox.instance9872;vlc"/>
+      <property name="mpris-players" type="string" value="chromium.instance1174;chromium.instance1181;chromium.instance1252;chromium.instance145182;chromium.instance3084;chromium.instance3903;firefox.instance100604;firefox.instance108973;firefox.instance12329;firefox.instance14002;firefox.instance14680;firefox.instance17474;firefox.instance2455;firefox.instance24631;firefox.instance2678;firefox.instance3455;firefox.instance3500;firefox.instance4266;firefox.instance4960;firefox.instance51373;firefox.instance54166;firefox.instance54171;firefox.instance5455;firefox.instance6089;firefox.instance7463;firefox.instance9872;vlc"/>
     </property>
     <property name="plugin-9" type="string" value="power-manager-plugin"/>
     <property name="plugin-10" type="string" value="notification-plugin"/>
@@ -179,5 +195,13 @@
       </property>
     </property>
     <property name="plugin-16" type="string" value="docklike"/>
+    <property name="plugin-17" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="16848528012.desktop"/>
+        <value type="string" value="16848527381.desktop"/>
+      </property>
+      <property name="move-first" type="bool" value="true"/>
+      <property name="arrow-position" type="uint" value="5"/>
+    </property>
   </property>
 </channel>

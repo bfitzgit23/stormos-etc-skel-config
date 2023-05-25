@@ -3,14 +3,41 @@ update_info=kwin.upd:replace-scalein-with-scale,kwin.upd:port-minimizeanimation-
 
 [Desktops]
 Id_1=271f02f1-2f37-4d7e-a1eb-67616b86add6
-Number=1
+Id_2=756c9943-50f6-49a3-b1ac-dd8e7d08c728
+Id_3=ad9760e2-1f48-4eb6-bd05-bfd91ebadbb3
+Id_4=9500303e-de6b-4f68-bab4-a59ae5fdee12
+Number=4
 Rows=1
+
+[Effect-cube]
+BackgroundColor=0,0,0
+MouseInvertedX=true
+MouseInvertedY=true
+
+[Effect-desktopgrid]
+BorderActivate=3
+
+[Effect-windowview]
+BorderActivateAll=1,7
 
 [ElectricBorders]
 Top=KRunner
+
+[Plugins]
+cubeEnabled=true
+kwin4_effect_squashEnabled=false
+magiclampEnabled=true
+mouseclickEnabled=true
+slidebackEnabled=true
+trackmouseEnabled=true
+wobblywindowsEnabled=true
 
 [Tiling]
 padding=4
 
 [Tiling][e688eb74-7230-5d02-a5e0-3b38a54bc04e]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[org.kde.kdecoration2]
+library=org.kde.kwin.aurorae
+theme=__aurorae__svg__Arc-Dark

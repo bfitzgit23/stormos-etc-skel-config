@@ -1,11 +1,7 @@
 [MainWindow]
-1920x1017 screen: Height=700
-1920x1017 screen: Width=1020
-1920x1017 screen: XPosition=450
-1920x1017 screen: YPosition=162
-1920x1080 screen: XPosition=450
-1920x1080 screen: YPosition=199
+1920x1080 screen: XPosition=479
+1920x1080 screen: YPosition=283
 MenuBar=Disabled
 State=AAAA/wAAAAD9AAAAAAAAA/wAAAK8AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
-Virtual1=Virtual1
+eDP-2=eDP-2

@@ -2,8 +2,8 @@
 Encoding=UTF-8
 Version=0.9.4
 Type=Application
-Name=wm switching
-Comment=window manager switcher
+Name=wm-switch
+Comment=
 Exec=/usr/local/share/wm.sh
 OnlyShowIn=XFCE;
 RunHook=0

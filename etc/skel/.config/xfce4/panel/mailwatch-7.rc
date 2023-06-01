@@ -4,7 +4,7 @@ new_messages_command=
 count_changed_command=
 normal_icon=xfce-nomail
 new_mail_icon=xfce-newmail
-log_lines=200
+log_lines=500
 show_log_status=true
 auto_open_online_doc=false
 

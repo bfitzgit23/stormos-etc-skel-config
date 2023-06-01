@@ -1,5 +1,5 @@
 favorites=xfce4-web-browser.desktop,xfce4-mail-reader.desktop,xfce4-file-manager.desktop,xfce4-terminal-emulator.desktop
-recent=xfce-session-settings.desktop,rustdesk.desktop,xfce4-file-manager.desktop,thorium-browser.desktop,appimagekit_f93cda349c91b914b47c6dc2eb21fb3d-Ascension_Launcher.desktop,discord.desktop,steam-native.desktop
+recent=xfce-ui-settings.desktop,xfce-wm-settings.desktop,kvantummanager.desktop,firefox.desktop,discord.desktop,xfce4-terminal-emulator.desktop,qt5ct.desktop,xfce4-terminal.desktop
 button-icon=/usr/share/pixmaps/stormos/menubutton.png
 button-single-row=false
 show-button-title=false

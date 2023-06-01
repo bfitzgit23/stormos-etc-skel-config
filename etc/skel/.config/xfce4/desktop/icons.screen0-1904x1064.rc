@@ -1,23 +1,15 @@
 [xfdesktop-version-4.10.3+-rcfile_format]
 4.10.3+=true
 
-[/home/ben/Desktop/stormos-build-files]
+[/home/stormdev/Desktop/StormOS-2020.07.26-x86_64.iso]
 row=2
 col=0
 
-[/home/ben/Desktop/livegui-amd64-latest.iso]
-row=3
-col=0
-
-[/home/ben/Desktop/steam.desktop]
+[/home/stormdev/Desktop/net.lutris.star-wars-the-old-republic-54.desktop]
 row=1
 col=0
 
-[Trash]
-row=8
-col=17
-
-[/home/ben]
+[/home/stormdev/Desktop/SWG RestorationCU]
 row=0
 col=0
 

@@ -121,6 +121,9 @@ toolBarFont=Hack,12,-1,5,50,0,0,0,0,0
 [Icons]
 Theme=Surfn-Arch-Blue
 
+[KDE]
+widgetStyle=gtk2
+
 [WM]
 activeBackground=0,22,33
 activeBlend=0,30,44

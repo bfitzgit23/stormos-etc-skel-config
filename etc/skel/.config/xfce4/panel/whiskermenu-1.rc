@@ -1,5 +1,5 @@
 favorites=xfce4-web-browser.desktop,xfce4-mail-reader.desktop,xfce4-file-manager.desktop,xfce4-terminal-emulator.desktop
-recent=xfce-ui-settings.desktop,xfce-wm-settings.desktop,kvantummanager.desktop,firefox.desktop,discord.desktop,xfce4-terminal-emulator.desktop,qt5ct.desktop,xfce4-terminal.desktop
+recent=firefox.desktop,xfce4-terminal-emulator.desktop,wine-Programs-SWGEmu-SWGEmu Launchpad-SWGEmu Launchpad.desktop,steam.desktop,xfce4-taskmanager.desktop,xfce-display-settings.desktop,wine-Programs-Cheat Engine 7.5-Cheat Engine.desktop,kdesystemsettings.desktop,xfce-backdrop-settings.desktop,xfce-session-settings.desktop
 button-icon=/usr/share/pixmaps/stormos/menubutton.png
 button-single-row=false
 show-button-title=false

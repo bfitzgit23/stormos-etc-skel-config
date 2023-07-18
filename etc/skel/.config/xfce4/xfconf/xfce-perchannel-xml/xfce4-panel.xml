@@ -31,7 +31,7 @@
       </property>
     </property>
     <property name="panel-2" type="empty">
-      <property name="position" type="string" value="p=12;x=653;y=739"/>
+      <property name="position" type="string" value="p=12;x=947;y=1054"/>
       <property name="size" type="uint" value="48"/>
       <property name="length" type="double" value="1"/>
       <property name="position-locked" type="bool" value="true"/>
@@ -39,6 +39,7 @@
       <property name="plugin-ids" type="array">
         <value type="int" value="16"/>
       </property>
+      <property name="enable-struts" type="bool" value="true"/>
     </property>
   </property>
   <property name="plugins" type="empty">

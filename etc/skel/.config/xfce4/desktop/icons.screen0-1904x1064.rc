@@ -1,15 +1,27 @@
 [xfdesktop-version-4.10.3+-rcfile_format]
 4.10.3+=true
 
-[/home/stormdev/Desktop/StormOS-2020.07.26-x86_64.iso]
+[/home/test/Desktop/axelc8.desktop]
 row=2
 col=0
 
-[/home/stormdev/Desktop/net.lutris.star-wars-the-old-republic-54.desktop]
+[/home/test/Desktop/wgetm.desktop]
+row=4
+col=0
+
+[/home/test/Desktop/playmovie.desktop]
 row=1
 col=0
 
-[/home/stormdev/Desktop/SWG RestorationCU]
+[/home/test/Desktop/menuxstorm.desktop]
+row=3
+col=0
+
+[Trash]
+row=8
+col=17
+
+[/home/test]
 row=0
 col=0
 

@@ -1,5 +1,5 @@
 favorites=xfce4-web-browser.desktop,xfce4-mail-reader.desktop,xfce4-file-manager.desktop,xfce4-terminal-emulator.desktop
-recent=firefox.desktop,xfce4-terminal-emulator.desktop,xfce4-taskmanager.desktop,xfce-display-settings.desktop,kdesystemsettings.desktop,xfce-backdrop-settings.desktop,xfce-session-settings.desktop
+recent=xfce4-terminal.desktop,xfce-ui-settings.desktop,firefox.desktop,xfce4-terminal-emulator.desktop,xfce-session-settings.desktop,ccsm.desktop,emerald-theme-manager.desktop,xfce4-taskmanager.desktop,xfce-display-settings.desktop,xfce-backdrop-settings.desktop
 button-icon=/usr/share/pixmaps/stormos/menubutton.png
 button-single-row=false
 show-button-title=false

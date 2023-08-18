@@ -4,7 +4,6 @@
   <property name="configver" type="int" value="2"/>
   <property name="panels" type="array">
     <value type="int" value="1"/>
-    <value type="int" value="2"/>
     <property name="dark-mode" type="bool" value="true"/>
     <property name="panel-1" type="empty">
       <property name="position" type="string" value="p=6;x=683;y=16"/>
@@ -33,17 +32,6 @@
         <value type="int" value="10"/>
         <value type="int" value="12"/>
       </property>
-    </property>
-    <property name="panel-2" type="empty">
-      <property name="position" type="string" value="p=12;x=947;y=1054"/>
-      <property name="size" type="uint" value="48"/>
-      <property name="length" type="double" value="1"/>
-      <property name="position-locked" type="bool" value="true"/>
-      <property name="background-style" type="uint" value="1"/>
-      <property name="plugin-ids" type="array">
-        <value type="int" value="16"/>
-      </property>
-      <property name="enable-struts" type="bool" value="true"/>
     </property>
   </property>
   <property name="plugins" type="empty">
@@ -184,7 +172,6 @@
         <value type="string" value="16512588081.desktop"/>
       </property>
     </property>
-    <property name="plugin-16" type="string" value="docklike"/>
     <property name="plugin-17" type="string" value="separator">
       <property name="expand" type="bool" value="false"/>
       <property name="style" type="uint" value="0"/>

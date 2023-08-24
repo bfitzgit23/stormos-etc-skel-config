@@ -1,2 +1,5 @@
 [General]
-theme=Nordic-Darker-Solid
+theme=Nordic-Darker-Solid#
+
+[Applications]
+Nordic-Darker-Solid%23=calamares, virtualbox, vlc

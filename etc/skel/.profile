@@ -1,1 +1,1 @@
-export QT_QPA_PLATFORMTHEME=kvantum
+export QT_QPA_PLATFORMTHEME=kde
